@@ -11,4 +11,4 @@ Also Uses a text file to save the top 5 scores game.
 
 The GameScore class can remove all entries before a given date using remove(string date)
 
-[![Run on Repl.it](https://repl.it/badge/github/danielzelfo/GameScores)](https://repl.it/GameScores)
+[![Run on Repl.it](https://repl.it/badge/github/danielzelfo/GameScores)](https://repl.it/github/danielzelfo/GameScores)
