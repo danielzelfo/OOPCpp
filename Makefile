@@ -1,4 +1,4 @@
-OBJS = main.cpp
+OBJS = *.cpp
 
 #Change compiler here if required
 CC = g++
