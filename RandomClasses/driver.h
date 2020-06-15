@@ -24,7 +24,7 @@ void lotterySimulation();
 
 using namespace std;
 
-int main()
+void randomClassesMain()
 {
 	//creating all the random objects
 	RandDay randDay;
