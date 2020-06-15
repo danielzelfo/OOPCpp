@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include "HugeInteger/driver.h"
-//#include "RationalNumber/driver.h"
+#include "RationalNumber/driver.h"
 //#include "RandomClasses/driver.h"
 //#include "GeometricShapes/driver.h"
 //#include "GameScores/driver.h"
@@ -30,7 +30,7 @@ int main()
             hugeIntegerMain();
             break;
         case 2:
-            //rationalNumberMain();
+            rationalNumberMain();
             break;
         case 3:
             //randomClassesMain();
