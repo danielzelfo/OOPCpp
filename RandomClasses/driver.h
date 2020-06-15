@@ -74,8 +74,6 @@ void randomClassesMain()
     cout << "Running Lottery Simulation... (this will take some time)\n\n";
     lotterySimulation();
   }
-	
-    return 0;
 }
 
 //function to print all the random objects
