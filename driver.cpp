@@ -6,7 +6,7 @@
 #include "RationalNumber/driver.h"
 #include "RandomClasses/driver.h"
 #include "GeometricShapes/driver.h"
-//#include "GameScores/driver.h"
+#include "GameScores/driver.h"
 
 using namespace std;
 
@@ -39,7 +39,7 @@ int main()
             geometricShapesMain();
             break;
         case 5:
-            //gameScoresMain();
+            gameScoresMain();
             break;
         default:
             cout << "Invalid Option (" << option << ")\n";
