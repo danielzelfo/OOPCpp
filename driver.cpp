@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-//#include "HugeInteger/driver.h"
+#include "HugeInteger/driver.h"
 //#include "RationalNumber/driver.h"
 //#include "RandomClasses/driver.h"
 //#include "GeometricShapes/driver.h"
@@ -27,7 +27,7 @@ int main()
     while (option != 0) {
         switch (option) {
         case 1:
-            //hugeIntegerMain();
+            hugeIntegerMain();
             break;
         case 2:
             //rationalNumberMain();
