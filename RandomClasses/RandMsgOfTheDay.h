@@ -24,7 +24,7 @@ void RandMsgOfTheDay::setRand() {
 	int randLine = rand() % 100 + 1;
 
 	//setting the random message to the randLine line of the file message.txt, which is a list of messages
-	str = ReadNthLine("messages.txt", randLine);
+	str = ReadNthLine("RandomClasses/messages.txt", randLine);
 }
 
 

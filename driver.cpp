@@ -5,7 +5,7 @@
 #include "HugeInteger/driver.h"
 #include "RationalNumber/driver.h"
 #include "RandomClasses/driver.h"
-//#include "GeometricShapes/driver.h"
+#include "GeometricShapes/driver.h"
 //#include "GameScores/driver.h"
 
 using namespace std;
@@ -36,7 +36,7 @@ int main()
             randomClassesMain();
             break;
         case 4:
-            //geometricShapesMain();
+            geometricShapesMain();
             break;
         case 5:
             //gameScoresMain();
