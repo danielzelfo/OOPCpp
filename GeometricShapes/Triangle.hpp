@@ -1,6 +1,6 @@
 #pragma once
 #include <math.h>
-#include "Polygon.h"
+#include "Polygon.hpp"
 
 class Triangle : public Polygon {
 private:

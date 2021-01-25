@@ -1,6 +1,6 @@
 #pragma once
 #include <math.h>
-#include "Triangle.h"
+#include "Triangle.hpp"
 
 class IsoscelesTriangle : public Triangle {
 private:

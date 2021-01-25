@@ -1,7 +1,7 @@
 //#ifndef RandLotto_h
 //#define RandLotto_h
 
-#include "RandGen.h"
+#include "RandGen.hpp"
 
 //the random lottery number class
 class RandLotto : public RandGen {

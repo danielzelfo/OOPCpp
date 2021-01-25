@@ -1,4 +1,4 @@
-#include "RandString.h"
+#include "RandString.hpp"
 
 //the random string class
 class RandStr : public RandString {

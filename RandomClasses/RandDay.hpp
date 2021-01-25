@@ -1,8 +1,8 @@
 //#ifndef RandDay_h
 //#define RandDay_h
 
-#include "RandGen.h"
-#include "Date.h"
+#include "RandGen.hpp"
+#include "Date.hpp"
 #include <string>
 //the random day class
 

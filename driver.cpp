@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include "HugeInteger/driver.h"
-#include "RationalNumber/driver.h"
-#include "RandomClasses/driver.h"
-#include "GeometricShapes/driver.h"
-#include "GameScores/driver.h"
+#include "HugeInteger/driver.hpp"
+#include "RationalNumber/driver.hpp"
+#include "RandomClasses/driver.hpp"
+#include "GeometricShapes/driver.hpp"
+#include "GameScores/driver.hpp"
 
 using namespace std;
 

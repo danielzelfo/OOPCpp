@@ -1,4 +1,4 @@
-#include "RandGen.h"
+#include "RandGen.hpp"
 #include <string>
 
 #ifndef RANDSTRING_H

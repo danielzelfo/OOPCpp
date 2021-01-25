@@ -1,5 +1,5 @@
-#include "RandGen.h"
-#include "Time.h"
+#include "RandGen.hpp"
+#include "Time.hpp"
 
 //the random time class
 class RandTime : public RandGen {

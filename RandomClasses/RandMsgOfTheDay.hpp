@@ -1,4 +1,4 @@
-#include "RandString.h"
+#include "RandString.hpp"
 #include <fstream>
 
 //the random message class

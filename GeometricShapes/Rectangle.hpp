@@ -1,7 +1,7 @@
 #pragma once
 #include <math.h>
-#include "Parallelogram.h"
-#include "Polygon.h"
+#include "Parallelogram.hpp"
+#include "Polygon.hpp"
 
 class Rectangle : public Parallelogram {
 private:

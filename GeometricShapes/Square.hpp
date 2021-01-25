@@ -1,7 +1,7 @@
 #pragma once
 #include <math.h>
 
-#include "Rectangle.h"
+#include "Rectangle.hpp"
 
 class Square : public Rectangle {
 private:

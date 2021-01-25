@@ -8,11 +8,11 @@
  *				The program includes the classroom birthday simulation. It uses the RandDay class to generate random birthdays in the same year. It runs 6 different simulations for class sizes 20-25 and finds the probability that a birthday repeats for each class size.
  * Date: 12/4/2019
  */
-#include "RandDay.h"
-#include "RandLotto.h"
-#include "RandMsgOfTheDay.h"
-#include "RandStr.h"
-#include "RandTime.h"
+#include "RandDay.hpp"
+#include "RandLotto.hpp"
+#include "RandMsgOfTheDay.hpp"
+#include "RandStr.hpp"
+#include "RandTime.hpp"
 
 #include <map>
 #include <iomanip>
