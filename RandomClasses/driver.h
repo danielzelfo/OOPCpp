@@ -1,7 +1,11 @@
 /*
  * Author: Daniel Zelfo
  * Class: CSCI 140
- * Program: Random Program. Includes a random date class, a random time class, a random lottery number class, a random message class, and a random string class.
+ * Program: Random Program. 
+ *
+ * Description: The program includes the RandDay class, the RandTime class, the RandLotto class, the RandMsgOfTheDay class, and the RandString class.
+ * 				The program includes a simulation for the lottery and uses the RandLotto class to generate random lottery numbers to find the probability to win the lottery.
+ *				The program includes the classroom birthday simulation. It uses the RandDay class to generate random birthdays in the same year. It runs 6 different simulations for class sizes 20-25 and finds the probability that a birthday repeats for each class size.
  * Date: 12/4/2019
  */
 #include "RandDay.h"
